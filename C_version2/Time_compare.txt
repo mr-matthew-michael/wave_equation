@@ -1,0 +1,1 @@
+On the larger problem size of .0025 .0005 1 4 1 my C code took 12.31s user 0.61s system 99% cpu 13.055 total. While the java code took 7.03s user 1.13s system 106% cpu 7.663 total with the same problem size. Comparatively the java code worked faster than my C code. 
